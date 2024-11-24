@@ -9,7 +9,7 @@ const useLogin = () => {
     const login = async(username,password)=>{
         setError(null)
         setIsLoading(true)
-        console.log("hi")
+        console.log("hello")
 
         const response = await fetch('/users/login', {
         method:'POST',

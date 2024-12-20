@@ -1,8 +1,8 @@
-# to ignore a specific file
-filelog1.txt
+# # to ignore a specific file
+# filelog1.txt
 
-# to ignore a folder
-logs/
+# # to ignore a folder
+# logs/
 
-# to ingnore specific files
-logs/*.txt
+# # to ingnore specific files
+# logs/*.txt
